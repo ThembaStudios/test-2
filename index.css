@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(28, 27, 68);
+    color: rgb(65, 178, 206);
+
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    margin-top: 5vmin;
+
+    border-radius: 1vmin;
+    border-style: solid;
+    border-color: rgb(65, 178, 206);
+
+}
+
+h1{
+    font-size: 8.5vmin;
+    color: rgb(66, 66, 221);
+}
+
+h2{
+    font-size: 4.5vmin;
+}
